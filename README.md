@@ -12,8 +12,8 @@
 1. [x] 魔术猜谜
 
 
-# 架构指导手册 -- Pending
-## 接口设计
+## 架构指导手册 -- Pending
+### 接口设计
 - 根据领域模型划分微服务（Microservice）或者单体服务（Standalone）的package
 - 遵循RESTFul API最佳实践设计接口
 - API接口可根据应用场景大体分为Admin管理端和各种前端（包括但不限于H5、小程序、Android、iOS）
