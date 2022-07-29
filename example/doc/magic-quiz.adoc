@@ -1,0 +1,149 @@
+
+'''
+== License
+Copyright © 2022 Uniyex LLC. All rights reserved. +
+Email: uniyex@hotmail.com +
+GitHub：
+Magic Quiz is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+
+'''
+[.lead]
+
+*five,six,nine,ten,pen,pencil,paper,tape,dog,turtle,cat,mouse,apple,banana,lime,peach,
+chant,write,run,sit,brown,blue,red,pink,yo-yo,doll,block,kite,hot,dry,cool,wet,
+tall,small,fit,cute,pond,dune,sea,cave,bow,wig,cap,pin,foot,leg,hip,elbow,
+dance,hum,drive,ask,king,crown,princess,prince,yam,pea,carrot,onion,flag,toy,globe,book,
+watch,bib,ring,bag,open,sofa,bench,quick,nest,hut,barn,igloo,sister,mom,dad,uncle,
+Greece,Korea,France,Mexico,cousin,smart,aunt,strong,doctor,cook,vet,baker,judo,ping pong,chess,golf,
+spoon,pot,jug,cup,eagle,owl,swan,parrot,rug,TV,lamp,desk,duck,cow,pig,hen,
+moon,star,comet,cloud,deer,ram,ox,yak,Monday,Thursday,Friday,Saturday,t-shirt,vest,coat,cape,
+mall,pool,park,airport,train,jet,car,ship,hike,garden,fish,jog,tent,backpack,lantern,map,
+tulip,lily,rose,sunflower,twenty,forty,hundred,thirty,runny nose,headache,cold,toothache,seesaw,swing,slide,maze,
+March,June,July,December,zebra,elephant,lane,road,crayon,ruler,clay,eraser,flute,piano,cello,drums,
+spicy,sour,sweet,bitter,turn,left,right,cross,school,gym,toy store,zoo,cook,fry,chop,peel*
+
+'''
+=== 请从上面选择一个字，然后写下来，注意「不要告诉任何人」！
+=== 5秒之后开始……
+<<<
+== | 第 1 张卡片 |
+|===
+| 1 five | 3 nine | 5 pen | 7 paper | 9 dog | 11 cat | 13 apple | 15 lime
+| 17 chant | 19 run | 21 brown | 23 red | 25 yo-yo | 27 block | 29 hot | 31 cool
+| 33 tall | 35 fit | 37 pond | 39 sea | 41 bow | 43 cap | 45 foot | 47 hip
+| 49 dance | 51 drive | 53 king | 55 princess | 57 yam | 59 carrot | 61 flag | 63 globe
+| 65 watch | 67 ring | 69 open | 71 bench | 73 nest | 75 barn | 77 sister | 79 dad
+| 81 Greece | 83 France | 85 cousin | 87 aunt | 89 doctor | 91 vet | 93 judo | 95 chess
+| 97 spoon | 99 jug | 101 eagle | 103 swan | 105 rug | 107 lamp | 109 duck | 111 pig
+| 113 moon | 115 comet | 117 deer | 119 ox | 121 Monday | 123 Friday | 125 t-shirt | 127 coat
+| 129 mall | 131 park | 133 train | 135 car | 137 hike | 139 fish | 141 tent | 143 lantern
+| 145 tulip | 147 rose | 149 twenty | 151 hundred | 153 runny nose| 155 cold | 157 seesaw | 159 slide
+| 161 March | 163 July | 165 zebra | 167 lane | 169 crayon | 171 clay | 173 flute | 175 cello
+| 177 spicy | 179 sweet | 181 turn | 183 right | 185 school | 187 toy store | 189 cook | 191 chop
+|===
+<<<
+== | 第 2 张卡片 |
+|===
+| 2 six | 3 nine | 6 pencil | 7 paper | 10 turtle | 11 cat | 14 banana | 15 lime
+| 18 write | 19 run | 22 blue | 23 red | 26 doll | 27 block | 30 dry | 31 cool
+| 34 small | 35 fit | 38 dune | 39 sea | 42 wig | 43 cap | 46 leg | 47 hip
+| 50 hum | 51 drive | 54 crown | 55 princess | 58 pea | 59 carrot | 62 toy | 63 globe
+| 66 bib | 67 ring | 70 sofa | 71 bench | 74 hut | 75 barn | 78 mom | 79 dad
+| 82 Korea | 83 France | 86 smart | 87 aunt | 90 cook | 91 vet | 94 ping pong | 95 chess
+| 98 pot | 99 jug | 102 owl | 103 swan | 106 TV | 107 lamp | 110 cow | 111 pig
+| 114 star | 115 comet | 118 ram | 119 ox | 122 Thursday | 123 Friday | 126 vest | 127 coat
+| 130 pool | 131 park | 134 jet | 135 car | 138 garden | 139 fish | 142 backpack | 143 lantern
+| 146 lily | 147 rose | 150 forty | 151 hundred | 154 headache | 155 cold | 158 swing | 159 slide
+| 162 June | 163 July | 166 elephant | 167 lane | 170 ruler | 171 clay | 174 piano | 175 cello
+| 178 sour | 179 sweet | 182 left | 183 right | 186 gym | 187 toy store | 190 fry | 191 chop
+|===
+<<<
+== | 第 3 张卡片 |
+|===
+| 4 ten | 5 pen | 6 pencil | 7 paper | 12 mouse | 13 apple | 14 banana | 15 lime
+| 20 sit | 21 brown | 22 blue | 23 red | 28 kite | 29 hot | 30 dry | 31 cool
+| 36 cute | 37 pond | 38 dune | 39 sea | 44 pin | 45 foot | 46 leg | 47 hip
+| 52 ask | 53 king | 54 crown | 55 princess | 60 onion | 61 flag | 62 toy | 63 globe
+| 68 bag | 69 open | 70 sofa | 71 bench | 76 igloo | 77 sister | 78 mom | 79 dad
+| 84 Mexico | 85 cousin | 86 smart | 87 aunt | 92 baker | 93 judo | 94 ping pong | 95 chess
+| 100 cup | 101 eagle | 102 owl | 103 swan | 108 desk | 109 duck | 110 cow | 111 pig
+| 116 cloud | 117 deer | 118 ram | 119 ox | 124 Saturday | 125 t-shirt | 126 vest | 127 coat
+| 132 airport | 133 train | 134 jet | 135 car | 140 jog | 141 tent | 142 backpack | 143 lantern
+| 148 sunflower | 149 twenty | 150 forty | 151 hundred | 156 toothache | 157 seesaw | 158 swing | 159 slide
+| 164 December | 165 zebra | 166 elephant | 167 lane | 172 eraser | 173 flute | 174 piano | 175 cello
+| 180 bitter | 181 turn | 182 left | 183 right | 188 zoo | 189 cook | 190 fry | 191 chop
+|===
+<<<
+== | 第 4 张卡片 |
+|===
+| 8 tape | 9 dog | 10 turtle | 11 cat | 12 mouse | 13 apple | 14 banana | 15 lime
+| 24 pink | 25 yo-yo | 26 doll | 27 block | 28 kite | 29 hot | 30 dry | 31 cool
+| 40 cave | 41 bow | 42 wig | 43 cap | 44 pin | 45 foot | 46 leg | 47 hip
+| 56 prince | 57 yam | 58 pea | 59 carrot | 60 onion | 61 flag | 62 toy | 63 globe
+| 72 quick | 73 nest | 74 hut | 75 barn | 76 igloo | 77 sister | 78 mom | 79 dad
+| 88 strong | 89 doctor | 90 cook | 91 vet | 92 baker | 93 judo | 94 ping pong | 95 chess
+| 104 parrot | 105 rug | 106 TV | 107 lamp | 108 desk | 109 duck | 110 cow | 111 pig
+| 120 yak | 121 Monday | 122 Thursday | 123 Friday | 124 Saturday | 125 t-shirt | 126 vest | 127 coat
+| 136 ship | 137 hike | 138 garden | 139 fish | 140 jog | 141 tent | 142 backpack | 143 lantern
+| 152 thirty | 153 runny nose| 154 headache | 155 cold | 156 toothache | 157 seesaw | 158 swing | 159 slide
+| 168 road | 169 crayon | 170 ruler | 171 clay | 172 eraser | 173 flute | 174 piano | 175 cello
+| 184 cross | 185 school | 186 gym | 187 toy store | 188 zoo | 189 cook | 190 fry | 191 chop
+|===
+<<<
+== | 第 5 张卡片 |
+|===
+| 16 peach | 17 chant | 18 write | 19 run | 20 sit | 21 brown | 22 blue | 23 red
+| 24 pink | 25 yo-yo | 26 doll | 27 block | 28 kite | 29 hot | 30 dry | 31 cool
+| 48 elbow | 49 dance | 50 hum | 51 drive | 52 ask | 53 king | 54 crown | 55 princess
+| 56 prince | 57 yam | 58 pea | 59 carrot | 60 onion | 61 flag | 62 toy | 63 globe
+| 80 uncle | 81 Greece | 82 Korea | 83 France | 84 Mexico | 85 cousin | 86 smart | 87 aunt
+| 88 strong | 89 doctor | 90 cook | 91 vet | 92 baker | 93 judo | 94 ping pong | 95 chess
+| 112 hen | 113 moon | 114 star | 115 comet | 116 cloud | 117 deer | 118 ram | 119 ox
+| 120 yak | 121 Monday | 122 Thursday | 123 Friday | 124 Saturday | 125 t-shirt | 126 vest | 127 coat
+| 144 map | 145 tulip | 146 lily | 147 rose | 148 sunflower | 149 twenty | 150 forty | 151 hundred
+| 152 thirty | 153 runny nose| 154 headache | 155 cold | 156 toothache | 157 seesaw | 158 swing | 159 slide
+| 176 drums | 177 spicy | 178 sour | 179 sweet | 180 bitter | 181 turn | 182 left | 183 right
+| 184 cross | 185 school | 186 gym | 187 toy store | 188 zoo | 189 cook | 190 fry | 191 chop
+|===
+<<<
+== | 第 6 张卡片 |
+|===
+| 32 wet | 33 tall | 34 small | 35 fit | 36 cute | 37 pond | 38 dune | 39 sea
+| 40 cave | 41 bow | 42 wig | 43 cap | 44 pin | 45 foot | 46 leg | 47 hip
+| 48 elbow | 49 dance | 50 hum | 51 drive | 52 ask | 53 king | 54 crown | 55 princess
+| 56 prince | 57 yam | 58 pea | 59 carrot | 60 onion | 61 flag | 62 toy | 63 globe
+| 96 golf | 97 spoon | 98 pot | 99 jug | 100 cup | 101 eagle | 102 owl | 103 swan
+| 104 parrot | 105 rug | 106 TV | 107 lamp | 108 desk | 109 duck | 110 cow | 111 pig
+| 112 hen | 113 moon | 114 star | 115 comet | 116 cloud | 117 deer | 118 ram | 119 ox
+| 120 yak | 121 Monday | 122 Thursday | 123 Friday | 124 Saturday | 125 t-shirt | 126 vest | 127 coat
+| 160 maze | 161 March | 162 June | 163 July | 164 December | 165 zebra | 166 elephant | 167 lane
+| 168 road | 169 crayon | 170 ruler | 171 clay | 172 eraser | 173 flute | 174 piano | 175 cello
+| 176 drums | 177 spicy | 178 sour | 179 sweet | 180 bitter | 181 turn | 182 left | 183 right
+| 184 cross | 185 school | 186 gym | 187 toy store | 188 zoo | 189 cook | 190 fry | 191 chop
+|===
+<<<
+== | 第 7 张卡片 |
+|===
+| 64 book | 65 watch | 66 bib | 67 ring | 68 bag | 69 open | 70 sofa | 71 bench
+| 72 quick | 73 nest | 74 hut | 75 barn | 76 igloo | 77 sister | 78 mom | 79 dad
+| 80 uncle | 81 Greece | 82 Korea | 83 France | 84 Mexico | 85 cousin | 86 smart | 87 aunt
+| 88 strong | 89 doctor | 90 cook | 91 vet | 92 baker | 93 judo | 94 ping pong | 95 chess
+| 96 golf | 97 spoon | 98 pot | 99 jug | 100 cup | 101 eagle | 102 owl | 103 swan
+| 104 parrot | 105 rug | 106 TV | 107 lamp | 108 desk | 109 duck | 110 cow | 111 pig
+| 112 hen | 113 moon | 114 star | 115 comet | 116 cloud | 117 deer | 118 ram | 119 ox
+| 120 yak | 121 Monday | 122 Thursday | 123 Friday | 124 Saturday | 125 t-shirt | 126 vest | 127 coat
+| 192 peel | | | | | | |
+|===
+<<<
+== | 第 8 张卡片 |
+|===
+| 128 cape | 129 mall | 130 pool | 131 park | 132 airport | 133 train | 134 jet | 135 car
+| 136 ship | 137 hike | 138 garden | 139 fish | 140 jog | 141 tent | 142 backpack | 143 lantern
+| 144 map | 145 tulip | 146 lily | 147 rose | 148 sunflower | 149 twenty | 150 forty | 151 hundred
+| 152 thirty | 153 runny nose| 154 headache | 155 cold | 156 toothache | 157 seesaw | 158 swing | 159 slide
+| 160 maze | 161 March | 162 June | 163 July | 164 December | 165 zebra | 166 elephant | 167 lane
+| 168 road | 169 crayon | 170 ruler | 171 clay | 172 eraser | 173 flute | 174 piano | 175 cello
+| 176 drums | 177 spicy | 178 sour | 179 sweet | 180 bitter | 181 turn | 182 left | 183 right
+| 184 cross | 185 school | 186 gym | 187 toy store | 188 zoo | 189 cook | 190 fry | 191 chop
+| 192 peel | | | | | | |
+|===
