@@ -110,7 +110,6 @@ public class MagicQuiz {
    * @param args the input arguments
    */
   public static void main(String[] args) throws InterruptedException {
-    boolean quizzed = false;
     int secondsOfThinking = 5;
     System.out.println("``` ");
     System.out.println(PRINT_LINE);
@@ -132,6 +131,7 @@ public class MagicQuiz {
     System.out.println("请从上面选择一个字，然后写下来，不要告诉任何人！ " + secondsOfThinking + "秒之后开始……");
     System.out.println(PRINT_LINE);
     Thread.sleep(secondsOfThinking * 1000);
-    quiz(quizzed);
+
+    quiz(false);
   }
 }

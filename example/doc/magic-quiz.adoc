@@ -1,10 +1,12 @@
 
 '''
 == License
-Copyright © 2022 Uniyex LLC. All rights reserved. +
-Email: uniyex@hotmail.com +
-GitHub：
-Magic Quiz is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+- Copyright © 2022 Uniyex LLC. All rights reserved.
+- Magic Quiz is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+- GitHub: https://github.com/uniyex/uniyex-coder
+- Email: uniyex@hotmail.com
+- WeCom: +
+image:uniyex-coder-wecom-qr.png[]
 
 '''
 [.lead]
