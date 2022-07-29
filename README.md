@@ -31,7 +31,7 @@
 
 # 联系我
 * 邮箱: uniyex@hotmail.com
-* 企业微信: 
-* ![UniyexCoder](/example/doc/uniyex-coder-wecom-qr.png "UniyexCoder")
+* 企业微信:  
+![UniyexCoder](/example/doc/uniyex-coder-wecom-qr.png "UniyexCoder")
 
 # 欢迎加入交流！
