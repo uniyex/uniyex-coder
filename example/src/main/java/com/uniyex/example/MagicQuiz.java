@@ -10,9 +10,13 @@ import java.util.Scanner;
 public class MagicQuiz {
   static final String LICENCE =
     """
-    Copyright © 2022 Uniyex LLC. All rights reserved. +
-    Email: uniyex@hotmail.com +
-    Magic Quiz is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+    == License
+    image::uniyex-coder-wecom-qr.png[WeCom,200,200,float=right]
+    - Copyright © 2022 Uniyex LLC. All rights reserved. +
+    - Magic Quiz is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+    - GitHub: https://github.com/uniyex/uniyex-coder
+    - Email: uniyex@hotmail.com
+    - Scan the QR code to communicate.
     """;
 
   /** The Binary pattern. */
